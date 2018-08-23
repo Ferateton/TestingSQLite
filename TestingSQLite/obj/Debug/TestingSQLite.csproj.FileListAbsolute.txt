@@ -1,0 +1,46 @@
+c:\users\ferateton\documents\visual studio 2012\Projects\TestingSQLite\TestingSQLite\bin\Debug\TestingSQLite.exe.config
+c:\users\ferateton\documents\visual studio 2012\Projects\TestingSQLite\TestingSQLite\bin\Debug\TestingSQLite.exe
+c:\users\ferateton\documents\visual studio 2012\Projects\TestingSQLite\TestingSQLite\bin\Debug\TestingSQLite.pdb
+c:\users\ferateton\documents\visual studio 2012\Projects\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.csprojResolveAssemblyReference.cache
+c:\users\ferateton\documents\visual studio 2012\Projects\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.Properties.Resources.resources
+c:\users\ferateton\documents\visual studio 2012\Projects\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.csproj.GenerateResource.Cache
+c:\users\ferateton\documents\visual studio 2012\Projects\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.exe
+c:\users\ferateton\documents\visual studio 2012\Projects\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.pdb
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.Form1.resources
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\TestingSQLite\TestingSQLite\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\TestingSQLite\TestingSQLite\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.Form2.resources
+C:\Users\Entercyber\Desktop\TestingSQLite\TestingSQLite\bin\Debug\TestingSQLite.exe.config
+C:\Users\Entercyber\Desktop\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.exe
+C:\Users\Entercyber\Desktop\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.pdb
+C:\Users\Entercyber\Desktop\TestingSQLite\TestingSQLite\bin\Debug\TestingSQLite.exe
+C:\Users\Entercyber\Desktop\TestingSQLite\TestingSQLite\bin\Debug\TestingSQLite.pdb
+C:\Users\Entercyber\Desktop\TestingSQLite\TestingSQLite\bin\Debug\System.Data.SQLite.xml
+C:\Users\Entercyber\Desktop\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.Form1.resources
+C:\Users\Entercyber\Desktop\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.Form2.resources
+C:\Users\Entercyber\Desktop\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.Properties.Resources.resources
+C:\Users\Entercyber\Desktop\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.csproj.GenerateResource.Cache
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\New folder (2)\TestingSQLite\TestingSQLite\bin\Debug\TestingSQLite.exe.config
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\New folder (2)\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.exe
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\New folder (2)\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.pdb
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\New folder (2)\TestingSQLite\TestingSQLite\bin\Debug\TestingSQLite.exe
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\New folder (2)\TestingSQLite\TestingSQLite\bin\Debug\TestingSQLite.pdb
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\New folder (2)\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.csprojResolveAssemblyReference.cache
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\New folder (2)\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.Form1.resources
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\New folder (2)\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.Form2.resources
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\New folder (2)\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.Properties.Resources.resources
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\New folder (2)\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.csproj.GenerateResource.Cache
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\New folder (2)\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.Form3.resources
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\New folder (2)\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.Form4.resources
+G:\TestingSQLite\TestingSQLite\bin\Debug\TestingSQLite.exe.config
+G:\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.exe
+G:\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.pdb
+G:\TestingSQLite\TestingSQLite\bin\Debug\TestingSQLite.exe
+G:\TestingSQLite\TestingSQLite\bin\Debug\TestingSQLite.pdb
+G:\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.csprojResolveAssemblyReference.cache
+G:\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.Form1.resources
+G:\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.Form2.resources
+G:\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.Form3.resources
+G:\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.Form4.resources
+G:\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.Properties.Resources.resources
+G:\TestingSQLite\TestingSQLite\obj\Debug\TestingSQLite.csproj.GenerateResource.Cache
